@@ -1,7 +1,8 @@
 # Vue 3 + Vite
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+项目内集成了以下几种代码校验方式
 
-## Recommended IDE Setup
-
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+1. ESlint 用于校验代码格式规范
+2. Prettier 代码格式化
+3. stylelint 用于校验 css/less 规范
+4. commitlint 用于校验 git 提交信息规范
