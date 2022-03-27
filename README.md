@@ -6,3 +6,5 @@
 2. Prettier 代码格式化
 3. stylelint 用于校验 css/less 规范
 4. commitlint 用于校验 git 提交信息规范
+
+通过按需导入的方式集成了 Element Plus
